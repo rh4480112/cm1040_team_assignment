@@ -113,3 +113,11 @@ article {
 .dropdown:hover .dropdown_button {
     background-color: #124;
 }
+
+.sub-menu a:hover {
+    background-color: #124;
+}
+
+.article {
+    padding: 10px;
+}
