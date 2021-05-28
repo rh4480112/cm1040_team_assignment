@@ -9,7 +9,7 @@ header {
     max-width: 1000px;
     margin: auto;
 }
-section {
+section,.centered {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@ section {
 article {
     background-color: #f1f1f1;
 }
-.center {
+.bordered {
     margin: auto;
     border: 3px solid black;
     padding: 1%;
