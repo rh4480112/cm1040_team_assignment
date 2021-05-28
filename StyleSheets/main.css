@@ -118,6 +118,6 @@ article {
     background-color: #124;
 }
 
-article {
+article,.padding {
     padding: 10px;
 }
