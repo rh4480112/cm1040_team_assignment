@@ -80,6 +80,7 @@ article {
     padding: 16px;
     font-size: 16px;
     border: none;
+    font: 400 20px Arial;
 }
 .ticket_button {
     background-color: white;
