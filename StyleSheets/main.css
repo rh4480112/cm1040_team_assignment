@@ -127,7 +127,7 @@ section,.centered {
     justify-content: left;
 }
 
-.responsive_image_one {
+..responsive_image_fullwidth {
     width: 100%;
     height: auto;
     max-width: 1000px;
