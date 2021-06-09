@@ -97,7 +97,7 @@ main h2 {
     font-family: 'Cormorant Unicase', serif;
 }
 
-section,.centered {
+section {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -128,6 +128,8 @@ section,.centered {
     width: 100%;
     height: auto;
     max-width: 1000px;
+    display: flex;
+    margin: auto;
 }
 
 .responsive_image_left {
