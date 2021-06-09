@@ -133,14 +133,14 @@ section,.centered {
     max-width: 1000px;
 }
 
-.responsive_image_two {
+.responsive_image_left {
     width: 100%;
     height: auto;
     max-width: 50%;
     padding-right: 1%;
 }
 
-.responsive_image_three {
+.responsive_image_right {
     width: 100%;
     height: auto;
     max-width: 50%;
