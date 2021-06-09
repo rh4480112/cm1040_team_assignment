@@ -4,6 +4,14 @@ body {
     font-family: 'Montaga', serif;
 }
 
+nav a {
+   text-decoration: none;
+}
+
+nav a.underlined {
+   text-decoration: underline;
+}
+
 header {
     background-color: #123;
     padding-top: 1%;
