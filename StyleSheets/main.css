@@ -96,7 +96,6 @@ nav {
 }
 
 /* Main content */
-/* Subtitles */
 main h2 {
     font-family: 'Cormorant Unicase', serif;
 }
@@ -139,6 +138,13 @@ section,.centered {
     height: auto;
     max-width: 50%;
     padding-right: 1%;
+}
+
+.responsive_image_three {
+    width: 100%;
+    height: auto;
+    max-width: 50%;
+    padding-left: 1%;
 }
 
 .ticket_button {
