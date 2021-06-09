@@ -18,8 +18,8 @@ header {
     padding-top: 1%;
     padding-bottom: 1%;
 
-    background-color: #123;
-    color: white;
+    background-color: #457b9d;
+    color: #f1faee;
 
     font-size: 2rem;
     font-family: 'Playfair Display SC', serif;
@@ -27,7 +27,7 @@ header {
     letter-spacing: 0.1rem;
 
     text-align: center;
-    text-shadow: 2px 2px 2px grey;
+    text-shadow: 2px 2px 4px grey;
 }
 
 
@@ -43,8 +43,8 @@ nav a.underlined {
 
 /* Dropdown menu */
 .dropdown_button {
-    background-color: #123;
-    color: white;
+    background-color: #83c5be;
+    color: #f1faee;
     padding: 16px;
     border: none;
 }
@@ -52,7 +52,7 @@ nav a.underlined {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #123;
+    background-color: #83c5be;
     min-width: 160px;
 }
 
@@ -64,7 +64,7 @@ nav a.underlined {
 }
 
 .dropdown-content a:hover {
-    background-color: #124;
+    background-color: #83c5be;
 }
 
 .dropdown:hover .dropdown-content {
@@ -72,11 +72,11 @@ nav a.underlined {
 }
 
 .dropdown:hover .dropdown_button {
-    background-color: #124;
+    background-color: #83c5be;
 }
 
 .sub-menu a:hover {
-    background-color: #124;
+    background-color: #83c5be;
 }
 
 .dropdown {
@@ -85,7 +85,7 @@ nav a.underlined {
 }
 
 .nav_center {
-    background-color: #123;
+    background-color: #83c5be;
     display: flex;
     justify-content: center;
     width: 80%;
@@ -109,13 +109,21 @@ section {
     line-height: 1.5;
 }
 
-.bordered {
+.subtitle {
     margin: auto;
-    border: 3px solid black;
+    padding: 1%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.ticket {
+    margin: auto;
     padding: 1%;
     text-align: center;
     font-size: 35px;
+    border: 3px solid black;
 }
+
 
 .left {
     margin: auto;
