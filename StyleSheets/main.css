@@ -24,6 +24,7 @@ header {
     font-size: 2rem;
     font-family: 'Playfair Display SC', serif;
     font-style: italic;
+    letter-spacing: 0.1rem;
 
     text-align: center;
     text-shadow: 2px 2px 2px grey;
@@ -105,6 +106,7 @@ section {
     width: 80%;
     padding: 1%;
     max-width: 1000px;
+    line-height: 1.5;
 }
 
 .bordered {
