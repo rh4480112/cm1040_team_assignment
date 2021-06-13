@@ -126,12 +126,14 @@ section {
 
 .ticket h1 {
     
+    background-color: rgb(131, 197, 190);
     color: rgb(241, 250, 238);
     font-size: 1rem
 }
 
 .ticket p {
     
+    background-color: rgb(131, 197, 190);
     color: rgb(241, 250, 238);
     text-decoration: underline;
     font-size: 1rem
