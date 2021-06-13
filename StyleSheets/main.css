@@ -124,6 +124,20 @@ section {
     border: 3px solid black;
 }
 
+.ticket h1 {
+    
+    color: rgb(241, 250, 238);
+    font-size: 1rem
+}
+
+.ticket p {
+    
+    color: rgb(241, 250, 238);
+    text-decoration: underline;
+    font-size: 1rem
+    
+}
+
 
 .left {
     margin: auto;
