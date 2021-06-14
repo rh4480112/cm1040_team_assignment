@@ -189,4 +189,12 @@ article,.padding {
     max-width: 1000px;
     padding: 1%;
     text-align: center;
+    
+    overflow: hidden;
+    transition-duration: 0.8s;
+    transition-property: transform;
 }
+
+.social:hover {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
